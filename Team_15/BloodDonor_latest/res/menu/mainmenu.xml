@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnuRegister" android:title="Register"></item>
+    <item android:id="@+id/mnuSearchDonor" android:title="Search Donor"></item>
+    <item android:id="@+id/mnuSearchBank" android:title="Search Blood Bank"></item>
+</menu>

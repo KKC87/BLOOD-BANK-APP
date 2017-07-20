@@ -1,0 +1,18 @@
+SELECT UPDATE_TIME
+FROM   information_schema.tables
+WHERE  TABLE_SCHEMA = 'dbname'
+   AND TABLE_NAME = 'tabname
+
+<?php
+
+    $sql = "SHOW TABLE STATUS FROM MydatabaseName LIKE 'TableName'";
+    $tableStatus = mysql_query($sql);
+
+while ($array = mysql_fetch_array($tableStatus)) {
+          $updatetime = $array['Update_time'];
+
+          $datetime = new DateTime($updatetime);
+          echo $updatetime ;
+     }
+
+ ?>

@@ -1,0 +1,61 @@
+TEAM: INNOVATORS
+COLLEGE: KLS GOGTE INSTITUTE OF TECHNOLOGY, BELGAUM
+PROBLEM STATEMENT:BLOOD BANK APP
+PROBLEM CODE: #DA9
+DETAILS:TEAM MEMBERS
+          KARTIK KUMAR CHOUDHARY(TL)
+          JASMEET KAUR KOHLI
+          ANKITA MANJAREKAR
+          RUSHIKESH PADAKI
+          SHASHANK SHETTENNAVAR
+          AISHA MOHAMMED F. DARGA
+        MENTORS
+          Prof. RAHUL KULKARNI
+          Prof. VEENA LALBEG
+
+PROBLEM DEFINITION[DEPRTMENT OF ATOMIC ENERGY]
+
+The mobile app desired can help provide updated inventory of group wise blood availability in blood banks in close proximity especially during disasters.
+This app can also have features to contact blood and platelets donors, when required to donate at the nearest blood bank, utilizing geo tracking of these donors, albeit with their consent.
+It can incorporate geographic mapping of blood banks in the country, based on their location, to provide better access to blood during eventualities.
+
+TECHNOLOGY USED:
+ADHOC
+ECILIPSE
+JAVA LANGUAGE
+SQL AND PHP ON CLOUD SERVER
+CUTE FTP
+
+
+
+SERVER DETAILS:
+CLOUD:http://myspace.belgaumonline.com:2083
+username:myspacebgm
+pswd: Myspace75$$
+
+cute ftp:
+site:https://www.myspace.belgaumonline.com
+host:myspace.belgaumonline.com
+username:myspacebgm
+pswd:Myspace75$$
+GO TO:www and then ayesha for server codes
+
+BLOODBANK SEARCH MODULE:
+HTTPS://www.myspace.belgaumonline.com/ayesha
+
+admin user:admin
+pass:a123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
